@@ -1,0 +1,75 @@
+h1 {
+    color:rgb(29, 75, 87); 
+    font: "Georgia";
+    font-size: 28px;
+    text-align: center;
+}
+
+h2 {
+    color:rgb(29, 75, 87);
+    font: "Georgia";
+    font-size: 22px;
+    text-align: center;
+}
+
+h3 {
+    color:rgb(29, 75, 87);
+    font: "Georgia";
+    font-style: oblique;
+    font-size: 22px;
+    text-align: center;
+}
+
+h4 {
+    color:rgb(29, 75, 87);
+    font: "Georgia";
+    font-style: italic;
+    font-size: 18px;
+    text-align: left;
+}
+
+.navigation_bar {
+    overflow: hidden;
+    background-color: rgb(29, 75, 87);
+  }
+
+.navigation_bar a {
+    font: "Georgia";
+    font-size: 22px;
+    font-style: italic;
+    color: white;
+}
+
+.navigation_bar ul {
+    display: flex;
+    margin: 0;
+    list-style-type: none;
+}
+
+.navigation_bar li {
+    display: inline;
+    padding: 10px;
+}
+
+p {
+    margin: 0 auto;
+    font: "Times New Roman";
+    font-size: 16px;
+}
+
+#main {
+    color: black;
+    font: "Times New Roman";
+    background-color: rgb(205, 246, 255);
+    text-align: justify;
+}
+
+.A {
+    border: 5px solid rgb(29, 75, 87);
+    padding: 30px 30px 30px 30px;
+    background-color: rgb(205, 246, 255);
+}
+
+body {
+    background-color: rgb(226, 250, 255);
+}
