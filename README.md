@@ -6,7 +6,8 @@ Part 1
 - index.html
 - page.html
 - style.css
-- style_html.txt
+- style_html.docx
+- images that are published onto my website
 
 Part 2
 - template.html
